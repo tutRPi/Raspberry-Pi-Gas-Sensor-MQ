@@ -15,10 +15,10 @@ class MQ():
  
     ######################### Software Related Macros #########################
     CALIBARAION_SAMPLE_TIMES     = 50       # define how many samples you are going to take in the calibration phase
-    CALIBRATION_SAMPLE_INTERVAL  = 500      # define the time interal(in milisecond) between each samples in the
+    CALIBRATION_SAMPLE_INTERVAL  = 500      # define the time interval(in milisecond) between each samples in the
                                             # cablibration phase
-    READ_SAMPLE_INTERVAL         = 50       # define how many samples you are going to take in normal operation
-    READ_SAMPLE_TIMES            = 5        # define the time interal(in milisecond) between each samples in 
+    READ_SAMPLE_INTERVAL         = 50       # define the time interval(in milisecond) between each samples in
+    READ_SAMPLE_TIMES            = 5        # define how many samples you are going to take in normal operation 
                                             # normal operation
  
     ######################### Application Related Macros ######################
